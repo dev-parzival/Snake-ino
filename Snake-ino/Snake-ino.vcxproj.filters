@@ -17,4 +17,9 @@
   <ItemGroup>
     <None Include="Snake-ino.ino" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.Snake-ino.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
